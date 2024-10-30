@@ -11,22 +11,22 @@ This is for educational purposes only, the author do not endorse or promote any 
 
 First clone the project into your system
 
-https://github.com/apocalypse9949/AnyWhereDoor.git
+https://github.com/apocalypse9949/GhostNet.git
 
 
 
 Use this below command to run the Demon.cpp
 ```bash
-  cd AnyWhereDoor
+  cd GhostNet
 
-  g++ -o Demon Demon.cpp -lssh
+  g++ -o GhostNet GhostNet.cpp -lssh
 
-  ./Demon
+  ./GhostNet.cpp
 ```
-Install Demon libs  with ./install.sh
+Install GhostNet libs  with ./install.sh
     
 ## Detailed Instructions
-# Demon Worm
+# GhostNet Worm
 
 ## Overview
 This project demonstrates a network-based worm using SSH and SFTP functionalities provided by the `libssh` library. **Warning: This is for educational purposes only and should only be run in a virtual environment.**
@@ -51,8 +51,8 @@ You can then commit and push your project to GitHub or any other Git hosting pla
 ```bash
 git init
 git add .
-git commit -m "Initial commit of Demon worm project"
+git commit -m "Initial commit of GhostNet worm project"
 git branch -M main
-git remote add origin https://github.com/apocalypse9949/AnyWhereDoor.git
+git remote add origin https://github.com/apocalypse9949/GhostNet.git
 git push -u origin main
 ```
