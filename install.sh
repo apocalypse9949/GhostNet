@@ -14,7 +14,7 @@ fi
 echo "Dependencies installed!"
 echo "********************************************"
 echo "*                                          *"
-echo "*      Welcome to the GhostNet Worm!        *"
+echo "*      Welcome to the GhostNet Worm!       *"
 echo "*     Use responsibly in a virtual env     *"
 echo "*                                          *"
 echo "********************************************"
