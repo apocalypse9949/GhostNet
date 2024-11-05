@@ -1,6 +1,6 @@
 //Start Date: 24-09-2024
-//author - apocalypse9949(me)
-//description - WORM(Demon) using SFTP and SSH connection for password finding in (any)OS but (tails os or tor-based OS)
+// Copyright © by Dodda Sai Prudhvi Raja 2017-2023. All rights reserved.
+// Use of this source code is governed by Apache 2 LICENSE which can be found in the LICENSE file.
 //WARNING!!
 //This worm can only used in virtual env, please don't try to run this on your personal or work system this can spread through your network
 
