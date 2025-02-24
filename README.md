@@ -42,17 +42,4 @@ For Debian-based systems:
 sudo apt update
 sudo apt install libssh-dev
 ```
-
-
-###  **Git Repository**
-
-You can then commit and push your project to GitHub or any other Git hosting platform. Here’s an example of how to do that:
-
-```bash
-git init
-git add .
-git commit -m "Initial commit of GhostNet worm project"
-git branch -M main
-git remote add origin https://github.com/apocalypse9949/GhostNet.git
-git push -u origin main
-```
+![Buy me coffee](buymeacoffee.com/saiprudhvil)
