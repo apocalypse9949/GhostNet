@@ -42,4 +42,4 @@ For Debian-based systems:
 sudo apt update
 sudo apt install libssh-dev
 ```
-![Buy Me Coffee](https://res.cloudinary.com/dzcnlhofn/image/upload/v1740373986/wfgpfdpqldourg4uoazg.png)
+![Image](https://github.com/user-attachments/assets/5dec8fd7-e684-47c9-99a6-cd3fb2e82b82)
